@@ -1,0 +1,11 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lab2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  MainGame.cpp
+C:\Users\skurm\Desktop\GP3 L7 Solution\Lab1\MainGame.cpp(130,37): warning C4244: 'argument': conversion from 'Sint32' to 'float', possible loss of data
+C:\Users\skurm\Desktop\GP3 L7 Solution\Lab1\MainGame.cpp(211,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\skurm\Desktop\GP3 L7 Solution\Lab1\MainGame.cpp(212,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\skurm\Desktop\GP3 L7 Solution\Lab1\MainGame.cpp(213,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\skurm\Desktop\GP3 L7 Solution\Lab1\MainGame.cpp(412,44): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\skurm\Desktop\GP3 L7 Solution\Lab1\MainGame.cpp(412,41): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\skurm\Desktop\GP3 L7 Solution\Lab1\MainGame.cpp(420,65): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\skurm\Desktop\GP3 L7 Solution\Lab1\MainGame.cpp(420,62): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+  Lab1.vcxproj -> C:\Users\skurm\Desktop\GP3 L7 Solution\Debug\Lab1.exe
